@@ -6,7 +6,7 @@ import { getFirestore } from 'firebase/firestore';
 
 // Firebase yapılandırmanız
 const firebaseConfig = {
-  apiKey: "AIzaSyA4KAWqVkAVH4A7wR1J7egXOrrIpLCeytE",
+  apiKey: "",
   authDomain: "dashboard-fb831.firebaseapp.com",
   projectId: "dashboard-fb831",
   storageBucket: "dashboard-fb831.appspot.com",
